@@ -1,9 +1,14 @@
-# Model 1:
+# Model 2:
 Model Type:
 - Xgboost
 
-Pre Proccessing:
-- Converted categorical STRING object to INTS
-- NULL values were passed to the model
-- No Feature Engineering
-- NULL values were passed to the model
+Notes:
+This version wont be anything fancy. We'll simply
+- DROP Colunms highly correlated columns with lots of NULL values and d
+    - SibSp
+    - Cabin
+- Drop NULL  Rows from columns that have few nulls:
+  - fare
+  - embarked
+- Drop Columns that need feature engineering
+  - Ticker
