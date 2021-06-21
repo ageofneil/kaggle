@@ -105,4 +105,4 @@ cython_debug/
 .ipynb_checkpoints
 
 # local
-.kaggle.json
+kaggle.json
