@@ -104,3 +104,5 @@ cython_debug/
 # jupyter notebooks
 .ipynb_checkpoints
 
+# local
+.kaggle.json
