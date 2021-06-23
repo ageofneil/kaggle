@@ -1,0 +1,264 @@
+,PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,label,First Name,Title,Nickname,Last Name,Junior,Ticket Number,Ticket Type,age_pediction,is_child
+5,6,0.0,3,"moran, mr. james",male,2.0,0,0,330877,8.4583,,Q,train,moran,mr.,none,  james,False,330877,,2.0,0.0
+17,18,1.0,2,"williams, mr. charles eugene",male,2.0,0,0,244373,13.0,,S,train,williams,mr.,none,  charles eugene,False,244373,,2.0,0.0
+19,20,1.0,3,"masselmani, mrs. fatima",female,2.0,0,0,2649,7.225,,C,train,masselmani,mrs.,none,  fatima,False,2649,,2.0,0.0
+26,27,0.0,3,"emir, mr. farred chehab",male,2.0,0,0,2631,7.225,,C,train,emir,mr.,none,  farred chehab,False,2631,,2.0,0.0
+28,29,1.0,3,"o'dwyer, miss. ellen ""nellie""",female,2.0,0,0,330959,7.8792,,Q,train,o'dwyer,miss.,"""nellie""",  ellen ,False,330959,,2.0,0.0
+29,30,0.0,3,"todoroff, mr. lalio",male,2.0,0,0,349216,7.8958,,S,train,todoroff,mr.,none,  lalio,False,349216,,2.0,0.0
+31,32,1.0,1,"spencer, mrs. william augustus (marie eugenie)",female,2.0,1,0,pc 17569,146.5208,B78,C,train,spencer,mrs.,(marie eugenie),  william augustus ,False,17569,pc ,2.0,0.0
+32,33,1.0,3,"glynn, miss. mary agatha",female,2.0,0,0,335677,7.75,,Q,train,glynn,miss.,none,  mary agatha,False,335677,,2.0,0.0
+36,37,1.0,3,"mamee, mr. hanna",male,2.0,0,0,2677,7.2292,,C,train,mamee,mr.,none,  hanna,False,2677,,2.0,0.0
+42,43,0.0,3,"kraeff, mr. theodor",male,2.0,0,0,349253,7.8958,,C,train,kraeff,mr.,none,  theodor,False,349253,,2.0,0.0
+45,46,0.0,3,"rogers, mr. william john",male,2.0,0,0,s.c./a.4. 23567,8.05,,S,train,rogers,mr.,none,  william john,False,23567,s.c./a.4. ,2.0,0.0
+46,47,0.0,3,"lennon, mr. denis",male,2.0,1,0,370371,15.5,,Q,train,lennon,mr.,none,  denis,False,370371,,2.0,0.0
+47,48,1.0,3,"o'driscoll, miss. bridget",female,2.0,0,0,14311,7.75,,Q,train,o'driscoll,miss.,none,  bridget,False,14311,,2.0,0.0
+48,49,0.0,3,"samaan, mr. youssef",male,2.0,2,0,2662,21.6792,,C,train,samaan,mr.,none,  youssef,False,2662,,2.0,0.0
+55,56,1.0,1,"woolner, mr. hugh",male,2.0,0,0,19947,35.5,C52,S,train,woolner,mr.,none,  hugh,False,19947,,2.0,0.0
+64,65,0.0,1,"stewart, mr. albert a",male,2.0,0,0,pc 17605,27.7208,,C,train,stewart,mr.,none,  albert a,False,17605,pc ,2.0,0.0
+65,66,1.0,3,"moubarek, master. gerios",male,2.0,1,1,2661,15.2458,,C,train,moubarek,master.,none,  gerios,False,2661,,1.0,1.0
+76,77,0.0,3,"staneff, mr. ivan",male,2.0,0,0,349208,7.8958,,S,train,staneff,mr.,none,  ivan,False,349208,,2.0,0.0
+77,78,0.0,3,"moutal, mr. rahamin haim",male,2.0,0,0,374746,8.05,,S,train,moutal,mr.,none,  rahamin haim,False,374746,,2.0,0.0
+82,83,1.0,3,"mcdermott, miss. brigdet delia",female,2.0,0,0,330932,7.7875,,Q,train,mcdermott,miss.,none,  brigdet delia,False,330932,,2.0,0.0
+87,88,0.0,3,"slocovski, mr. selman francis",male,2.0,0,0,soton/oq 392086,8.05,,S,train,slocovski,mr.,none,  selman francis,False,392086,soton/oq ,2.0,0.0
+95,96,0.0,3,"shorney, mr. charles joseph",male,2.0,0,0,374910,8.05,,S,train,shorney,mr.,none,  charles joseph,False,374910,,2.0,0.0
+101,102,0.0,3,"petroff, mr. pastcho (""pentcho"")",male,2.0,0,0,349215,7.8958,,S,train,petroff,mr.,"(""pentcho"")",  pastcho ,False,349215,,2.0,0.0
+107,108,1.0,3,"moss, mr. albert johan",male,2.0,0,0,312991,7.775,,S,train,moss,mr.,none,  albert johan,False,312991,,2.0,0.0
+109,110,1.0,3,"moran, miss. bertha",female,2.0,1,0,371110,24.15,,Q,train,moran,miss.,none,  bertha,False,371110,,2.0,0.0
+121,122,0.0,3,"moore, mr. leonard charles",male,2.0,0,0,a4. 54510,8.05,,S,train,moore,mr.,none,  leonard charles,False,54510,a4. ,2.0,0.0
+126,127,0.0,3,"mcmahon, mr. martin",male,2.0,0,0,370372,7.75,,Q,train,mcmahon,mr.,none,  martin,False,370372,,2.0,0.0
+128,129,1.0,3,"peter, miss. anna",female,2.0,1,1,2668,22.3583,F E69,C,train,peter,miss.,none,  anna,False,2668,,1.0,1.0
+140,141,0.0,3,"boulos, mrs. joseph (sultana)",female,2.0,0,2,2678,15.2458,,C,train,boulos,mrs.,(sultana),  joseph ,False,2678,,2.0,0.0
+154,155,0.0,3,"olsen, mr. ole martin",male,2.0,0,0,fa 265302,7.3125,,S,train,olsen,mr.,none,  ole martin,False,265302,fa ,2.0,0.0
+158,159,0.0,3,"smiljanic, mr. mile",male,2.0,0,0,315037,8.6625,,S,train,smiljanic,mr.,none,  mile,False,315037,,2.0,0.0
+159,160,0.0,3,"sage, master. thomas henry",male,2.0,8,2,ca. 2343,69.55,,S,train,sage,master.,none,  thomas henry,False,2343,ca. ,2.0,1.0
+166,167,1.0,1,"chibnall, mrs. (edith martha bowerman)",female,2.0,0,1,113505,55.0,E33,S,train,chibnall,mrs.,(edith martha bowerman),  ,False,113505,,2.0,0.0
+168,169,0.0,1,"baumann, mr. john d",male,2.0,0,0,pc 17318,25.925,,S,train,baumann,mr.,none,  john d,False,17318,pc ,2.0,0.0
+176,177,0.0,3,"lefebre, master. henry forbes",male,2.0,3,1,4133,25.4667,,S,train,lefebre,master.,none,  henry forbes,False,4133,,1.0,1.0
+180,181,0.0,3,"sage, miss. constance gladys",female,2.0,8,2,ca. 2343,69.55,,S,train,sage,miss.,none,  constance gladys,False,2343,ca. ,2.0,0.0
+181,182,0.0,2,"pernot, mr. rene",male,2.0,0,0,sc/paris 2131,15.05,,C,train,pernot,mr.,none,  rene,False,2131,sc/paris ,2.0,0.0
+185,186,0.0,1,"rood, mr. hugh roscoe",male,2.0,0,0,113767,50.0,A32,S,train,rood,mr.,none,  hugh roscoe,False,113767,,2.0,0.0
+186,187,1.0,3,"o'brien, mrs. thomas (johanna ""hannah"" godfrey)",female,2.0,1,0,370365,15.5,,Q,train,o'brien,mrs.,"(johanna ""hannah"" godfrey)",  thomas ,False,370365,,2.0,0.0
+196,197,0.0,3,"mernagh, mr. robert",male,2.0,0,0,368703,7.75,,Q,train,mernagh,mr.,none,  robert,False,368703,,2.0,0.0
+198,199,1.0,3,"madigan, miss. margaret ""maggie""",female,2.0,0,0,370370,7.75,,Q,train,madigan,miss.,"""maggie""",  margaret ,False,370370,,2.0,0.0
+201,202,0.0,3,"sage, mr. frederick",male,2.0,8,2,ca. 2343,69.55,,S,train,sage,mr.,none,  frederick,False,2343,ca. ,2.0,0.0
+214,215,0.0,3,"kiernan, mr. philip",male,2.0,1,0,367229,7.75,,Q,train,kiernan,mr.,none,  philip,False,367229,,2.0,0.0
+223,224,0.0,3,"nenkoff, mr. christo",male,2.0,0,0,349234,7.8958,,S,train,nenkoff,mr.,none,  christo,False,349234,,2.0,0.0
+229,230,0.0,3,"lefebre, miss. mathilde",female,2.0,3,1,4133,25.4667,,S,train,lefebre,miss.,none,  mathilde,False,4133,,1.0,1.0
+235,236,0.0,3,"harknett, miss. alice phoebe",female,2.0,0,0,w./c. 6609,7.55,,S,train,harknett,miss.,none,  alice phoebe,False,6609,w./c. ,2.0,0.0
+240,241,0.0,3,"zabour, miss. thamine",female,2.0,1,0,2665,14.4542,,C,train,zabour,miss.,none,  thamine,False,2665,,2.0,0.0
+241,242,1.0,3,"murphy, miss. katherine ""kate""",female,2.0,1,0,367230,15.5,,Q,train,murphy,miss.,"""kate""",  katherine ,False,367230,,2.0,0.0
+250,251,0.0,3,"reed, mr. james george",male,2.0,0,0,362316,7.25,,S,train,reed,mr.,none,  james george,False,362316,,2.0,0.0
+256,257,1.0,1,"thorne, mrs. gertrude maybelle",female,2.0,0,0,pc 17585,79.2,,C,train,thorne,mrs.,none,  gertrude maybelle,False,17585,pc ,2.0,0.0
+260,261,0.0,3,"smith, mr. thomas",male,2.0,0,0,384461,7.75,,Q,train,smith,mr.,none,  thomas,False,384461,,2.0,0.0
+264,265,0.0,3,"henry, miss. delia",female,2.0,0,0,382649,7.75,,Q,train,henry,miss.,none,  delia,False,382649,,2.0,0.0
+270,271,0.0,1,"cairns, mr. alexander",male,2.0,0,0,113798,31.0,,S,train,cairns,mr.,none,  alexander,False,113798,,2.0,0.0
+274,275,1.0,3,"healy, miss. hanora ""nora""",female,2.0,0,0,370375,7.75,,Q,train,healy,miss.,"""nora""",  hanora ,False,370375,,2.0,0.0
+277,278,0.0,2,"parkes, mr. francis ""frank""",male,2.0,0,0,239853,0.0,,S,train,parkes,mr.,"""frank""",  francis ,False,239853,,2.0,0.0
+284,285,0.0,1,"smith, mr. richard william",male,2.0,0,0,113056,26.0,A19,S,train,smith,mr.,none,  richard william,False,113056,,2.0,0.0
+295,296,0.0,1,"lewy, mr. ervin g",male,2.0,0,0,pc 17612,27.7208,,C,train,lewy,mr.,none,  ervin g,False,17612,pc ,2.0,0.0
+298,299,1.0,1,"saalfeld, mr. adolphe",male,2.0,0,0,19988,30.5,C106,S,train,saalfeld,mr.,none,  adolphe,False,19988,,2.0,0.0
+300,301,1.0,3,"kelly, miss. anna katherine ""annie kate""",female,2.0,0,0,9234,7.75,,Q,train,kelly,miss.,"""annie kate""",  anna katherine ,False,9234,,2.0,0.0
+301,302,1.0,3,"mccoy, mr. bernard",male,2.0,2,0,367226,23.25,,Q,train,mccoy,mr.,none,  bernard,False,367226,,2.0,0.0
+303,304,1.0,2,"keane, miss. nora a",female,2.0,0,0,226593,12.35,E101,Q,train,keane,miss.,none,  nora a,False,226593,,2.0,0.0
+304,305,0.0,3,"williams, mr. howard hugh ""harry""",male,2.0,0,0,a/5 2466,8.05,,S,train,williams,mr.,"""harry""",  howard hugh ,False,2466,a/5 ,2.0,0.0
+306,307,1.0,1,"fleming, miss. margaret",female,2.0,0,0,17421,110.8833,,C,train,fleming,miss.,none,  margaret,False,17421,,2.0,0.0
+324,325,0.0,3,"sage, mr. george john jr",male,2.0,8,2,ca. 2343,69.55,,S,train,sage,mr.,none,  george john ,True,2343,ca. ,2.0,0.0
+330,331,1.0,3,"mccoy, miss. agnes",female,2.0,2,0,367226,23.25,,Q,train,mccoy,miss.,none,  agnes,False,367226,,2.0,0.0
+334,335,1.0,1,"frauenthal, mrs. henry william (clara heinsheimer)",female,2.0,1,0,pc 17611,133.65,,S,train,frauenthal,mrs.,(clara heinsheimer),  henry william ,False,17611,pc ,2.0,0.0
+335,336,0.0,3,"denkoff, mr. mitto",male,2.0,0,0,349225,7.8958,,S,train,denkoff,mr.,none,  mitto,False,349225,,2.0,0.0
+347,348,1.0,3,"davison, mrs. thomas henry (mary e finck)",female,2.0,1,0,386525,16.1,,S,train,davison,mrs.,(mary e finck),  thomas henry ,False,386525,,2.0,0.0
+351,352,0.0,1,"williams-lambert, mr. fletcher fellows",male,2.0,0,0,113510,35.0,C128,S,train,williams-lambert,mr.,none,  fletcher fellows,False,113510,,2.0,0.0
+354,355,0.0,3,"yousif, mr. wazli",male,2.0,0,0,2647,7.225,,C,train,yousif,mr.,none,  wazli,False,2647,,2.0,0.0
+358,359,1.0,3,"mcgovern, miss. mary",female,2.0,0,0,330931,7.8792,,Q,train,mcgovern,miss.,none,  mary,False,330931,,2.0,0.0
+359,360,1.0,3,"mockler, miss. helen mary ""ellie""",female,2.0,0,0,330980,7.8792,,Q,train,mockler,miss.,"""ellie""",  helen mary ,False,330980,,2.0,0.0
+364,365,0.0,3,"o'brien, mr. thomas",male,2.0,1,0,370365,15.5,,Q,train,o'brien,mr.,none,  thomas,False,370365,,2.0,0.0
+367,368,1.0,3,"moussa, mrs. (mantoura boulos)",female,2.0,0,0,2626,7.2292,,C,train,moussa,mrs.,(mantoura boulos),  ,False,2626,,2.0,0.0
+368,369,1.0,3,"jermyn, miss. annie",female,2.0,0,0,14313,7.75,,Q,train,jermyn,miss.,none,  annie,False,14313,,2.0,0.0
+375,376,1.0,1,"meyer, mrs. edgar joseph (leila saks)",female,2.0,1,0,pc 17604,82.1708,,C,train,meyer,mrs.,(leila saks),  edgar joseph ,False,17604,pc ,2.0,0.0
+384,385,0.0,3,"plotcharsky, mr. vasil",male,2.0,0,0,349227,7.8958,,S,train,plotcharsky,mr.,none,  vasil,False,349227,,2.0,0.0
+388,389,0.0,3,"sadlier, mr. matthew",male,2.0,0,0,367655,7.7292,,Q,train,sadlier,mr.,none,  matthew,False,367655,,2.0,0.0
+409,410,0.0,3,"lefebre, miss. ida",female,2.0,3,1,4133,25.4667,,S,train,lefebre,miss.,none,  ida,False,4133,,1.0,1.0
+410,411,0.0,3,"sdycoff, mr. todor",male,2.0,0,0,349222,7.8958,,S,train,sdycoff,mr.,none,  todor,False,349222,,2.0,0.0
+411,412,0.0,3,"hart, mr. henry",male,2.0,0,0,394140,6.8583,,Q,train,hart,mr.,none,  henry,False,394140,,2.0,0.0
+413,414,0.0,2,"cunningham, mr. alfred fleming",male,2.0,0,0,239853,0.0,,S,train,cunningham,mr.,none,  alfred fleming,False,239853,,2.0,0.0
+415,416,0.0,3,"meek, mrs. thomas (annie louise rowley)",female,2.0,0,0,343095,8.05,,S,train,meek,mrs.,(annie louise rowley),  thomas ,False,343095,,2.0,0.0
+420,421,0.0,3,"gheorgheff, mr. stanio",male,2.0,0,0,349254,7.8958,,C,train,gheorgheff,mr.,none,  stanio,False,349254,,2.0,0.0
+425,426,0.0,3,"wiseman, mr. phillippe",male,2.0,0,0,a/4. 34244,7.25,,S,train,wiseman,mr.,none,  phillippe,False,34244,a/4. ,2.0,0.0
+428,429,0.0,3,"flynn, mr. james",male,2.0,0,0,364851,7.75,,Q,train,flynn,mr.,none,  james,False,364851,,2.0,0.0
+431,432,1.0,3,"thorneycroft, mrs. percival (florence kate white)",female,2.0,1,0,376564,16.1,,S,train,thorneycroft,mrs.,(florence kate white),  percival ,False,376564,,2.0,0.0
+444,445,1.0,3,"johannesen-bratthammer, mr. bernt",male,2.0,0,0,65306,8.1125,,S,train,johannesen-bratthammer,mr.,none,  bernt,False,65306,,2.0,0.0
+451,452,0.0,3,"hagland, mr. ingvald olai olsen",male,2.0,1,0,65303,19.9667,,S,train,hagland,mr.,none,  ingvald olai olsen,False,65303,,2.0,0.0
+454,455,0.0,3,"peduzzi, mr. joseph",male,2.0,0,0,a/5 2817,8.05,,S,train,peduzzi,mr.,none,  joseph,False,2817,a/5 ,2.0,0.0
+457,458,1.0,1,"kenyon, mrs. frederick r (marion)",female,2.0,1,0,17464,51.8625,D21,S,train,kenyon,mrs.,(marion),  frederick r ,False,17464,,2.0,0.0
+459,460,0.0,3,"o'connor, mr. maurice",male,2.0,0,0,371060,7.75,,Q,train,o'connor,mr.,none,  maurice,False,371060,,2.0,0.0
+464,465,0.0,3,"maisner, mr. simon",male,2.0,0,0,a/s 2816,8.05,,S,train,maisner,mr.,none,  simon,False,2816,a/s ,2.0,0.0
+466,467,0.0,2,"campbell, mr. william",male,2.0,0,0,239853,0.0,,S,train,campbell,mr.,none,  william,False,239853,,2.0,0.0
+468,469,0.0,3,"scanlan, mr. james",male,2.0,0,0,36209,7.725,,Q,train,scanlan,mr.,none,  james,False,36209,,2.0,0.0
+470,471,0.0,3,"keefe, mr. arthur",male,2.0,0,0,323592,7.25,,S,train,keefe,mr.,none,  arthur,False,323592,,2.0,0.0
+475,476,0.0,1,"clifford, mr. george quincy",male,2.0,0,0,110465,52.0,A14,S,train,clifford,mr.,none,  george quincy,False,110465,,2.0,0.0
+481,482,0.0,2,"frost, mr. anthony wood ""archie""",male,2.0,0,0,239854,0.0,,S,train,frost,mr.,"""archie""",  anthony wood ,False,239854,,2.0,0.0
+485,486,0.0,3,"lefebre, miss. jeannie",female,2.0,3,1,4133,25.4667,,S,train,lefebre,miss.,none,  jeannie,False,4133,,1.0,1.0
+490,491,0.0,3,"hagland, mr. konrad mathias reiersen",male,2.0,1,0,65304,19.9667,,S,train,hagland,mr.,none,  konrad mathias reiersen,False,65304,,2.0,0.0
+495,496,0.0,3,"yousseff, mr. gerious",male,2.0,0,0,2627,14.4583,,C,train,yousseff,mr.,none,  gerious,False,2627,,2.0,0.0
+497,498,0.0,3,"shellard, mr. frederick william",male,2.0,0,0,c.a. 6212,15.1,,S,train,shellard,mr.,none,  frederick william,False,6212,c.a. ,2.0,0.0
+502,503,0.0,3,"o'sullivan, miss. bridget mary",female,2.0,0,0,330909,7.6292,,Q,train,o'sullivan,miss.,none,  bridget mary,False,330909,,2.0,0.0
+507,508,1.0,1,"bradley, mr. george (""george arthur brayton"")",male,2.0,0,0,111427,26.55,,S,train,bradley,mr.,"(""george arthur brayton"")",  george ,False,111427,,2.0,0.0
+511,512,0.0,3,"webber, mr. james",male,2.0,0,0,soton/oq 3101316,8.05,,S,train,webber,mr.,none,  james,False,3101316,soton/oq ,2.0,0.0
+517,518,0.0,3,"ryan, mr. patrick",male,2.0,0,0,371110,24.15,,Q,train,ryan,mr.,none,  patrick,False,371110,,2.0,0.0
+522,523,0.0,3,"lahoud, mr. sarkis",male,2.0,0,0,2624,7.225,,C,train,lahoud,mr.,none,  sarkis,False,2624,,2.0,0.0
+524,525,0.0,3,"kassem, mr. fared",male,2.0,0,0,2700,7.2292,,C,train,kassem,mr.,none,  fared,False,2700,,2.0,0.0
+527,528,0.0,1,"farthing, mr. john",male,2.0,0,0,pc 17483,221.7792,C95,S,train,farthing,mr.,none,  john,False,17483,pc ,2.0,0.0
+531,532,0.0,3,"toufik, mr. nakli",male,2.0,0,0,2641,7.2292,,C,train,toufik,mr.,none,  nakli,False,2641,,2.0,0.0
+533,534,1.0,3,"peter, mrs. catherine (catherine rizk)",female,2.0,0,2,2668,22.3583,,C,train,peter,mrs.,(catherine rizk),  catherine ,False,2668,,2.0,0.0
+538,539,0.0,3,"risien, mr. samuel beard",male,2.0,0,0,364498,14.5,,S,train,risien,mr.,none,  samuel beard,False,364498,,2.0,0.0
+547,548,1.0,2,"padro y manent, mr. julian",male,2.0,0,0,sc/paris 2146,13.8625,,C,train,padro y manent,mr.,none,  julian,False,2146,sc/paris ,2.0,0.0
+552,553,0.0,3,"o'brien, mr. timothy",male,2.0,0,0,330979,7.8292,,Q,train,o'brien,mr.,none,  timothy,False,330979,,2.0,0.0
+557,558,0.0,1,"robbins, mr. victor",male,2.0,0,0,pc 17757,227.525,,C,train,robbins,mr.,none,  victor,False,17757,pc ,2.0,0.0
+560,561,0.0,3,"morrow, mr. thomas rowan",male,2.0,0,0,372622,7.75,,Q,train,morrow,mr.,none,  thomas rowan,False,372622,,2.0,0.0
+563,564,0.0,3,"simmons, mr. john",male,2.0,0,0,soton/oq 392082,8.05,,S,train,simmons,mr.,none,  john,False,392082,soton/oq ,2.0,0.0
+564,565,0.0,3,"meanwell, miss. (marion ogden)",female,2.0,0,0,soton/o.q. 392087,8.05,,S,train,meanwell,miss.,(marion ogden),  ,False,392087,soton/o.q. ,2.0,0.0
+568,569,0.0,3,"doharr, mr. tannous",male,2.0,0,0,2686,7.2292,,C,train,doharr,mr.,none,  tannous,False,2686,,2.0,0.0
+573,574,1.0,3,"kelly, miss. mary",female,2.0,0,0,14312,7.75,,Q,train,kelly,miss.,none,  mary,False,14312,,2.0,0.0
+578,579,0.0,3,"caram, mrs. joseph (maria elias)",female,2.0,1,0,2689,14.4583,,C,train,caram,mrs.,(maria elias),  joseph ,False,2689,,2.0,0.0
+584,585,0.0,3,"paulner, mr. uscher",male,2.0,0,0,3411,8.7125,,C,train,paulner,mr.,none,  uscher,False,3411,,2.0,0.0
+589,590,0.0,3,"murdlin, mr. joseph",male,2.0,0,0,a./5. 3235,8.05,,S,train,murdlin,mr.,none,  joseph,False,3235,a./5. ,2.0,0.0
+593,594,0.0,3,"bourke, miss. mary",female,2.0,0,2,364848,7.75,,Q,train,bourke,miss.,none,  mary,False,364848,,2.0,0.0
+596,597,1.0,2,"leitch, miss. jessie wills",female,2.0,0,0,248727,33.0,,S,train,leitch,miss.,none,  jessie wills,False,248727,,2.0,0.0
+598,599,0.0,3,"boulos, mr. hanna",male,2.0,0,0,2664,7.225,,C,train,boulos,mr.,none,  hanna,False,2664,,2.0,0.0
+601,602,0.0,3,"slabenoff, mr. petco",male,2.0,0,0,349214,7.8958,,S,train,slabenoff,mr.,none,  petco,False,349214,,2.0,0.0
+602,603,0.0,1,"harrington, mr. charles h",male,2.0,0,0,113796,42.4,,S,train,harrington,mr.,none,  charles h,False,113796,,2.0,0.0
+611,612,0.0,3,"jardin, mr. jose neto",male,2.0,0,0,soton/o.q. 3101305,7.05,,S,train,jardin,mr.,none,  jose neto,False,3101305,soton/o.q. ,2.0,0.0
+612,613,1.0,3,"murphy, miss. margaret jane",female,2.0,1,0,367230,15.5,,Q,train,murphy,miss.,none,  margaret jane,False,367230,,2.0,0.0
+613,614,0.0,3,"horgan, mr. john",male,2.0,0,0,370377,7.75,,Q,train,horgan,mr.,none,  john,False,370377,,2.0,0.0
+629,630,0.0,3,"o'connell, mr. patrick d",male,2.0,0,0,334912,7.7333,,Q,train,o'connell,mr.,none,  patrick d,False,334912,,2.0,0.0
+633,634,0.0,1,"parr, mr. william henry marsh",male,2.0,0,0,112052,0.0,,S,train,parr,mr.,none,  william henry marsh,False,112052,,2.0,0.0
+639,640,0.0,3,"thorneycroft, mr. percival",male,2.0,1,0,376564,16.1,,S,train,thorneycroft,mr.,none,  percival,False,376564,,2.0,0.0
+643,644,1.0,3,"foo, mr. choong",male,2.0,0,0,1601,56.4958,,S,train,foo,mr.,none,  choong,False,1601,,2.0,0.0
+648,649,0.0,3,"willey, mr. edward",male,2.0,0,0,s.o./p.p. 751,7.55,,S,train,willey,mr.,none,  edward,False,751,s.o./p.p. ,2.0,0.0
+650,651,0.0,3,"mitkoff, mr. mito",male,2.0,0,0,349221,7.8958,,S,train,mitkoff,mr.,none,  mito,False,349221,,2.0,0.0
+653,654,1.0,3,"o'leary, miss. hanora ""norah""",female,2.0,0,0,330919,7.8292,,Q,train,o'leary,miss.,"""norah""",  hanora ,False,330919,,2.0,0.0
+656,657,0.0,3,"radeff, mr. alexander",male,2.0,0,0,349223,7.8958,,S,train,radeff,mr.,none,  alexander,False,349223,,2.0,0.0
+667,668,0.0,3,"rommetvedt, mr. knud paust",male,2.0,0,0,312993,7.775,,S,train,rommetvedt,mr.,none,  knud paust,False,312993,,2.0,0.0
+669,670,1.0,1,"taylor, mrs. elmer zebley (juliet cummins wright)",female,2.0,1,0,19996,52.0,C126,S,train,taylor,mrs.,(juliet cummins wright),  elmer zebley ,False,19996,,2.0,0.0
+674,675,0.0,2,"watson, mr. ennis hastings",male,2.0,0,0,239856,0.0,,S,train,watson,mr.,none,  ennis hastings,False,239856,,2.0,0.0
+680,681,0.0,3,"peters, miss. katie",female,2.0,0,0,330935,8.1375,,Q,train,peters,miss.,none,  katie,False,330935,,2.0,0.0
+692,693,1.0,3,"lam, mr. ali",male,2.0,0,0,1601,56.4958,,S,train,lam,mr.,none,  ali,False,1601,,2.0,0.0
+697,698,1.0,3,"mullens, miss. katherine ""katie""",female,2.0,0,0,35852,7.7333,,Q,train,mullens,miss.,"""katie""",  katherine ,False,35852,,2.0,0.0
+709,710,1.0,3,"moubarek, master. halim gonios (""william george"")",male,2.0,1,1,2661,15.2458,,C,train,moubarek,master.,"(""william george"")",  halim gonios ,False,2661,,1.0,1.0
+711,712,0.0,1,"klaber, mr. herman",male,2.0,0,0,113028,26.55,C124,S,train,klaber,mr.,none,  herman,False,113028,,2.0,0.0
+718,719,0.0,3,"mcevoy, mr. michael",male,2.0,0,0,36568,15.5,,Q,train,mcevoy,mr.,none,  michael,False,36568,,2.0,0.0
+727,728,1.0,3,"mannion, miss. margareth",female,2.0,0,0,36866,7.7375,,Q,train,mannion,miss.,none,  margareth,False,36866,,2.0,0.0
+732,733,0.0,2,"knight, mr. robert j",male,2.0,0,0,239855,0.0,,S,train,knight,mr.,none,  robert j,False,239855,,2.0,0.0
+738,739,0.0,3,"ivanoff, mr. kanio",male,2.0,0,0,349201,7.8958,,S,train,ivanoff,mr.,none,  kanio,False,349201,,2.0,0.0
+739,740,0.0,3,"nankoff, mr. minko",male,2.0,0,0,349218,7.8958,,S,train,nankoff,mr.,none,  minko,False,349218,,2.0,0.0
+740,741,1.0,1,"hawksford, mr. walter james",male,2.0,0,0,16988,30.0,D45,S,train,hawksford,mr.,none,  walter james,False,16988,,2.0,0.0
+760,761,0.0,3,"garfirth, mr. john",male,2.0,0,0,358585,14.5,,S,train,garfirth,mr.,none,  john,False,358585,,2.0,0.0
+766,767,0.0,1,"brewe, dr. arthur jackson",male,2.0,0,0,112379,39.6,,C,train,brewe,dr.,none,  arthur jackson,False,112379,,2.0,0.0
+768,769,0.0,3,"moran, mr. daniel j",male,2.0,1,0,371110,24.15,,Q,train,moran,mr.,none,  daniel j,False,371110,,2.0,0.0
+773,774,0.0,3,"elias, mr. dibo",male,2.0,0,0,2674,7.225,,C,train,elias,mr.,none,  dibo,False,2674,,2.0,0.0
+776,777,0.0,3,"tobin, mr. roger",male,2.0,0,0,383121,7.75,F38,Q,train,tobin,mr.,none,  roger,False,383121,,2.0,0.0
+778,779,0.0,3,"kilgannon, mr. thomas j",male,2.0,0,0,36865,7.7375,,Q,train,kilgannon,mr.,none,  thomas j,False,36865,,2.0,0.0
+783,784,0.0,3,"johnston, mr. andrew g",male,2.0,1,2,w./c. 6607,23.45,,S,train,johnston,mr.,none,  andrew g,False,6607,w./c. ,2.0,0.0
+790,791,0.0,3,"keane, mr. andrew ""andy""",male,2.0,0,0,12460,7.75,,Q,train,keane,mr.,"""andy""",  andrew ,False,12460,,2.0,0.0
+792,793,0.0,3,"sage, miss. stella anna",female,2.0,8,2,ca. 2343,69.55,,S,train,sage,miss.,none,  stella anna,False,2343,ca. ,2.0,0.0
+793,794,0.0,1,"hoyt, mr. william fisher",male,2.0,0,0,pc 17600,30.6958,,C,train,hoyt,mr.,none,  william fisher,False,17600,pc ,2.0,0.0
+815,816,0.0,1,"fry, mr. richard",male,2.0,0,0,112058,0.0,B102,S,train,fry,mr.,none,  richard,False,112058,,2.0,0.0
+825,826,0.0,3,"flynn, mr. john",male,2.0,0,0,368323,6.95,,Q,train,flynn,mr.,none,  john,False,368323,,2.0,0.0
+826,827,0.0,3,"lam, mr. len",male,2.0,0,0,1601,56.4958,,S,train,lam,mr.,none,  len,False,1601,,2.0,0.0
+828,829,1.0,3,"mccormack, mr. thomas joseph",male,2.0,0,0,367228,7.75,,Q,train,mccormack,mr.,none,  thomas joseph,False,367228,,2.0,0.0
+832,833,0.0,3,"saad, mr. amin",male,2.0,0,0,2671,7.2292,,C,train,saad,mr.,none,  amin,False,2671,,2.0,0.0
+837,838,0.0,3,"sirota, mr. maurice",male,2.0,0,0,392092,8.05,,S,train,sirota,mr.,none,  maurice,False,392092,,2.0,0.0
+839,840,1.0,1,"marechal, mr. pierre",male,2.0,0,0,11774,29.7,C47,C,train,marechal,mr.,none,  pierre,False,11774,,2.0,0.0
+846,847,0.0,3,"sage, mr. douglas bullen",male,2.0,8,2,ca. 2343,69.55,,S,train,sage,mr.,none,  douglas bullen,False,2343,ca. ,2.0,0.0
+849,850,1.0,1,"goldenberg, mrs. samuel l (edwiga grabowska)",female,2.0,1,0,17453,89.1042,C92,C,train,goldenberg,mrs.,(edwiga grabowska),  samuel l ,False,17453,,2.0,0.0
+859,860,0.0,3,"razi, mr. raihed",male,2.0,0,0,2629,7.2292,,C,train,razi,mr.,none,  raihed,False,2629,,2.0,0.0
+863,864,0.0,3,"sage, miss. dorothy edith ""dolly""",female,2.0,8,2,ca. 2343,69.55,,S,train,sage,miss.,"""dolly""",  dorothy edith ,False,2343,ca. ,2.0,0.0
+868,869,0.0,3,"van melkebeke, mr. philemon",male,2.0,0,0,345777,9.5,,S,train,van melkebeke,mr.,none,  philemon,False,345777,,2.0,0.0
+878,879,0.0,3,"laleff, mr. kristo",male,2.0,0,0,349217,7.8958,,S,train,laleff,mr.,none,  kristo,False,349217,,2.0,0.0
+888,889,0.0,3,"johnston, miss. catherine helen ""carrie""",female,2.0,1,2,w./c. 6607,23.45,,S,train,johnston,miss.,"""carrie""",  catherine helen ,False,6607,w./c. ,1.0,1.0
+10,902,2.0,3,"ilieff, mr. ylio",male,2.0,0,0,349220,7.8958,,S,test,ilieff,mr.,none,  ylio,False,349220,,2.0,0.0
+22,914,2.0,1,"flegenheim, mrs. alfred (antoinette)",female,2.0,0,0,pc 17598,31.6833,,S,test,flegenheim,mrs.,(antoinette),  alfred ,False,17598,pc ,2.0,0.0
+29,921,2.0,3,"samaan, mr. elias",male,2.0,2,0,2662,21.6792,,C,test,samaan,mr.,none,  elias,False,2662,,2.0,0.0
+33,925,2.0,3,"johnston, mrs. andrew g (elizabeth lily"" watson)""",female,2.0,1,2,w./c. 6607,23.45,,S,test,johnston,mrs.,"(elizabeth lily"" watson)","  andrew g """,False,6607,w./c. ,2.0,0.0
+36,928,2.0,3,"roth, miss. sarah a",female,2.0,0,0,342712,8.05,,S,test,roth,miss.,none,  sarah a,False,342712,,2.0,0.0
+39,931,2.0,3,"hee, mr. ling",male,2.0,0,0,1601,56.4958,,S,test,hee,mr.,none,  ling,False,1601,,2.0,0.0
+41,933,2.0,1,"franklin, mr. thomas parham",male,2.0,0,0,113778,26.55,D34,S,test,franklin,mr.,none,  thomas parham,False,113778,,2.0,0.0
+47,939,2.0,3,"shaughnessy, mr. patrick",male,2.0,0,0,370374,7.75,,Q,test,shaughnessy,mr.,none,  patrick,False,370374,,2.0,0.0
+54,946,2.0,2,"mangiavacchi, mr. serafino emilio",male,2.0,0,0,sc/a.3 2861,15.5792,,C,test,mangiavacchi,mr.,none,  serafino emilio,False,2861,sc/a.3 ,2.0,0.0
+58,950,2.0,3,"davison, mr. thomas henry",male,2.0,1,0,386525,16.1,,S,test,davison,mr.,none,  thomas henry,False,386525,,2.0,0.0
+65,957,2.0,2,"corey, mrs. percy c (mary phyllis elizabeth miller)",female,2.0,0,0,f.c.c. 13534,21.0,,S,test,corey,mrs.,(mary phyllis elizabeth miller),  percy c ,False,13534,f.c.c. ,2.0,0.0
+76,968,2.0,3,"miles, mr. frank",male,2.0,0,0,359306,8.05,,S,test,miles,mr.,none,  frank,False,359306,,2.0,0.0
+83,975,2.0,3,"demetri, mr. marinko",male,2.0,0,0,349238,7.8958,,S,test,demetri,mr.,none,  marinko,False,349238,,2.0,0.0
+84,976,2.0,2,"lamb, mr. john joseph",male,2.0,0,0,240261,10.7083,,Q,test,lamb,mr.,none,  john joseph,False,240261,,2.0,0.0
+85,977,2.0,3,"khalil, mr. betros",male,2.0,1,0,2660,14.4542,,C,test,khalil,mr.,none,  betros,False,2660,,2.0,0.0
+88,980,2.0,3,"o'donoghue, ms. bridget",female,2.0,0,0,364856,7.75,,Q,test,o'donoghue,ms.,none,  bridget,False,364856,,2.0,0.0
+91,983,2.0,3,"pedersen, mr. olaf",male,2.0,0,0,345498,7.775,,S,test,pedersen,mr.,none,  olaf,False,345498,,2.0,0.0
+93,985,2.0,3,"guest, mr. robert",male,2.0,0,0,376563,8.05,,S,test,guest,mr.,none,  robert,False,376563,,2.0,0.0
+102,994,2.0,3,"foley, mr. william",male,2.0,0,0,365235,7.75,,Q,test,foley,mr.,none,  william,False,365235,,2.0,0.0
+107,999,2.0,3,"ryan, mr. edward",male,2.0,0,0,383162,7.75,,Q,test,ryan,mr.,none,  edward,False,383162,,2.0,0.0
+108,1000,2.0,3,"willer, mr. aaron (abi weller"")""",male,2.0,0,0,3410,8.7125,,S,test,willer,mr.,"(abi weller"")","  aaron """,False,3410,,2.0,0.0
+111,1003,2.0,3,"shine, miss. ellen natalia",female,2.0,0,0,330968,7.7792,,Q,test,shine,miss.,none,  ellen natalia,False,330968,,2.0,0.0
+116,1008,2.0,3,"thomas, mr. john",male,2.0,0,0,2681,6.4375,,C,test,thomas,mr.,none,  john,False,2681,,2.0,0.0
+121,1013,2.0,3,"kiernan, mr. john",male,2.0,1,0,367227,7.75,,Q,test,kiernan,mr.,none,  john,False,367227,,2.0,0.0
+124,1016,2.0,3,"kennedy, mr. john",male,2.0,0,0,368783,7.75,,Q,test,kennedy,mr.,none,  john,False,368783,,2.0,0.0
+127,1019,2.0,3,"mccoy, miss. alicia",female,2.0,2,0,367226,23.25,,Q,test,mccoy,miss.,none,  alicia,False,367226,,2.0,0.0
+132,1024,2.0,3,"lefebre, mrs. frank (frances)",female,2.0,0,4,4133,25.4667,,S,test,lefebre,mrs.,(frances),  frank ,False,4133,,2.0,0.0
+133,1025,2.0,3,"thomas, mr. charles p",male,2.0,1,0,2621,6.4375,,C,test,thomas,mr.,none,  charles p,False,2621,,2.0,0.0
+146,1038,2.0,1,"hilliard, mr. herbert henry",male,2.0,0,0,17463,51.8625,E46,S,test,hilliard,mr.,none,  herbert henry,False,17463,,2.0,0.0
+148,1040,2.0,1,"crafton, mr. john bertram",male,2.0,0,0,113791,26.55,,S,test,crafton,mr.,none,  john bertram,False,113791,,2.0,0.0
+151,1043,2.0,3,"matinoff, mr. nicola",male,2.0,0,0,349255,7.8958,,C,test,matinoff,mr.,none,  nicola,False,349255,,2.0,0.0
+160,1052,2.0,3,"smyth, miss. julia",female,2.0,0,0,335432,7.7333,,Q,test,smyth,miss.,none,  julia,False,335432,,2.0,0.0
+163,1055,2.0,3,"pearce, mr. ernest",male,2.0,0,0,343271,7.0,,S,test,pearce,mr.,none,  ernest,False,343271,,2.0,0.0
+168,1060,2.0,1,"cassebeer, mrs. henry arthur jr (eleanor genevieve fosdick)",female,2.0,0,0,17770,27.7208,,C,test,cassebeer,mrs.,(eleanor genevieve fosdick),  henry arthur  ,False,17770,,2.0,0.0
+170,1062,2.0,3,"lithman, mr. simon",male,2.0,0,0,s.o./p.p. 251,7.55,,S,test,lithman,mr.,none,  simon,False,251,s.o./p.p. ,2.0,0.0
+173,1065,2.0,3,"torfa, mr. assad",male,2.0,0,0,2673,7.2292,,C,test,torfa,mr.,none,  assad,False,2673,,2.0,0.0
+183,1075,2.0,3,"lane, mr. patrick",male,2.0,0,0,7935,7.75,,Q,test,lane,mr.,none,  patrick,False,7935,,2.0,0.0
+188,1080,2.0,3,"sage, miss. ada",female,2.0,8,2,ca. 2343,69.55,,S,test,sage,miss.,none,  ada,False,2343,ca. ,2.0,0.0
+191,1083,2.0,1,"salomon, mr. abraham l",male,2.0,0,0,111163,26.0,,S,test,salomon,mr.,none,  abraham l,False,111163,,2.0,0.0
+199,1091,2.0,3,"rasmussen, mrs. (lena jacobsen solvang)",female,2.0,0,0,65305,8.1125,,S,test,rasmussen,mrs.,(lena jacobsen solvang),  ,False,65305,,2.0,0.0
+200,1092,2.0,3,"murphy, miss. nora",female,2.0,0,0,36568,15.5,,Q,test,murphy,miss.,none,  nora,False,36568,,2.0,0.0
+205,1097,2.0,1,"omont, mr. alfred fernand",male,2.0,0,0,f.c. 12998,25.7417,,C,test,omont,mr.,none,  alfred fernand,False,12998,f.c. ,2.0,0.0
+211,1103,2.0,3,"finoli, mr. luigi",male,2.0,0,0,soton/o.q. 3101308,7.05,,S,test,finoli,mr.,none,  luigi,False,3101308,soton/o.q. ,2.0,0.0
+216,1108,2.0,3,"mahon, miss. bridget delia",female,2.0,0,0,330924,7.8792,,Q,test,mahon,miss.,none,  bridget delia,False,330924,,2.0,0.0
+219,1111,2.0,3,"thomson, mr. alexander morrison",male,2.0,0,0,32302,8.05,,S,test,thomson,mr.,none,  alexander morrison,False,32302,,2.0,0.0
+225,1117,2.0,3,"moubarek, mrs. george (omine amenia"" alexander)""",female,2.0,0,2,2661,15.2458,,C,test,moubarek,mrs.,"(omine amenia"" alexander)","  george """,False,2661,,2.0,0.0
+227,1119,2.0,3,"mcneill, miss. bridget",female,2.0,0,0,370368,7.75,,Q,test,mcneill,miss.,none,  bridget,False,370368,,2.0,0.0
+233,1125,2.0,3,"linehan, mr. michael",male,2.0,0,0,330971,7.8792,,Q,test,linehan,mr.,none,  michael,False,330971,,2.0,0.0
+243,1135,2.0,3,"hyman, mr. abraham",male,2.0,0,0,3470,7.8875,,S,test,hyman,mr.,none,  abraham,False,3470,,2.0,0.0
+244,1136,2.0,3,"johnston, master. william arthur willie""""",male,2.0,1,2,w./c. 6607,23.45,,S,test,johnston,master.,"""""",  william arthur willie,False,6607,w./c. ,2.0,0.0
+249,1141,2.0,3,"khalil, mrs. betros (zahie maria"" elias)""",female,2.0,1,0,2660,14.4542,,C,test,khalil,mrs.,"(zahie maria"" elias)","  betros """,False,2660,,2.0,0.0
+255,1147,2.0,3,"mackay, mr. george william",male,2.0,0,0,c.a. 42795,7.55,,S,test,mackay,mr.,none,  george william,False,42795,c.a. ,2.0,0.0
+256,1148,2.0,3,"mahon, mr. john",male,2.0,0,0,aq/4 3130,7.75,,Q,test,mahon,mr.,none,  john,False,3130,aq/4 ,2.0,0.0
+265,1157,2.0,3,"lyntakoff, mr. stanko",male,2.0,0,0,349235,7.8958,,S,test,lyntakoff,mr.,none,  stanko,False,349235,,2.0,0.0
+266,1158,2.0,1,"chisholm, mr. roderick robert crispin",male,2.0,0,0,112051,0.0,,S,test,chisholm,mr.,none,  roderick robert crispin,False,112051,,2.0,0.0
+267,1159,2.0,3,"warren, mr. charles william",male,2.0,0,0,c.a. 49867,7.55,,S,test,warren,mr.,none,  charles william,False,49867,c.a. ,2.0,0.0
+268,1160,2.0,3,"howard, miss. may elizabeth",female,2.0,0,0,a. 2. 39186,8.05,,S,test,howard,miss.,none,  may elizabeth,False,39186,a. 2. ,2.0,0.0
+271,1163,2.0,3,"fox, mr. patrick",male,2.0,0,0,368573,7.75,,Q,test,fox,mr.,none,  patrick,False,368573,,2.0,0.0
+273,1165,2.0,3,"lennon, miss. mary",female,2.0,1,0,370371,15.5,,Q,test,lennon,miss.,none,  mary,False,370371,,2.0,0.0
+274,1166,2.0,3,"saade, mr. jean nassr",male,2.0,0,0,2676,7.225,,C,test,saade,mr.,none,  jean nassr,False,2676,,2.0,0.0
+282,1174,2.0,3,"fleming, miss. honora",female,2.0,0,0,364859,7.75,,Q,test,fleming,miss.,none,  honora,False,364859,,2.0,0.0
+286,1178,2.0,3,"franklin, mr. charles (charles fardon)",male,2.0,0,0,soton/o.q. 3101314,7.25,,S,test,franklin,mr.,(charles fardon),  charles ,False,3101314,soton/o.q. ,2.0,0.0
+288,1180,2.0,3,"mardirosian, mr. sarkis",male,2.0,0,0,2655,7.2292,F E46,C,test,mardirosian,mr.,none,  sarkis,False,2655,,2.0,0.0
+289,1181,2.0,3,"ford, mr. arthur",male,2.0,0,0,a/5 1478,8.05,,S,test,ford,mr.,none,  arthur,False,1478,a/5 ,2.0,0.0
+290,1182,2.0,1,"rheims, mr. george alexander lucien",male,2.0,0,0,pc 17607,39.6,,S,test,rheims,mr.,none,  george alexander lucien,False,17607,pc ,2.0,0.0
+292,1184,2.0,3,"nasr, mr. mustafa",male,2.0,0,0,2652,7.2292,,C,test,nasr,mr.,none,  mustafa,False,2652,,2.0,0.0
+297,1189,2.0,3,"samaan, mr. hanna",male,2.0,2,0,2662,21.6792,,C,test,samaan,mr.,none,  hanna,False,2662,,2.0,0.0
+301,1193,2.0,2,"malachard, mr. noel",male,2.0,0,0,237735,15.0458,D,C,test,malachard,mr.,none,  noel,False,237735,,2.0,0.0
+304,1196,2.0,3,"mccarthy, miss. catherine katie""""",female,2.0,0,0,383123,7.75,,Q,test,mccarthy,miss.,"""""",  catherine katie,False,383123,,2.0,0.0
+312,1204,2.0,3,"sadowitz, mr. harry",male,2.0,0,0,lp 1588,7.575,,S,test,sadowitz,mr.,none,  harry,False,1588,lp ,2.0,0.0
+332,1224,2.0,3,"thomas, mr. tannous",male,2.0,0,0,2684,7.225,,C,test,thomas,mr.,none,  tannous,False,2684,,2.0,0.0
+339,1231,2.0,3,"betros, master. seman",male,2.0,0,0,2622,7.2292,,C,test,betros,master.,none,  seman,False,2622,,1.0,0.0
+342,1234,2.0,3,"sage, mr. john george",male,2.0,1,9,ca. 2343,69.55,,S,test,sage,mr.,none,  john george,False,2343,ca. ,2.0,0.0
+344,1236,2.0,3,"van billiard, master. james william",male,2.0,1,1,a/5. 851,14.5,,S,test,van billiard,master.,none,  james william,False,851,a/5. ,2.0,0.0
+357,1249,2.0,3,"lockyer, mr. edward",male,2.0,0,0,1222,7.8792,,S,test,lockyer,mr.,none,  edward,False,1222,,2.0,0.0
+358,1250,2.0,3,"o'keefe, mr. patrick",male,2.0,0,0,368402,7.75,,Q,test,o'keefe,mr.,none,  patrick,False,368402,,2.0,0.0
+365,1257,2.0,3,"sage, mrs. john (annie bullen)",female,2.0,1,9,ca. 2343,69.55,,S,test,sage,mrs.,(annie bullen),  john ,False,2343,ca. ,2.0,0.0
+366,1258,2.0,3,"caram, mr. joseph",male,2.0,1,0,2689,14.4583,,C,test,caram,mr.,none,  joseph,False,2689,,2.0,0.0
+380,1272,2.0,3,"o'connor, mr. patrick",male,2.0,0,0,366713,7.75,,Q,test,o'connor,mr.,none,  patrick,False,366713,,2.0,0.0
+382,1274,2.0,3,"risien, mrs. samuel (emma)",female,2.0,0,0,364498,14.5,,S,test,risien,mrs.,(emma),  samuel ,False,364498,,2.0,0.0
+384,1276,2.0,2,"wheeler, mr. edwin frederick""""",male,2.0,0,0,sc/paris 2159,12.875,,S,test,wheeler,mr.,"""""",  edwin frederick,False,2159,sc/paris ,2.0,-0.0
+408,1300,2.0,3,"riordan, miss. johanna hannah""""",female,2.0,0,0,334915,7.7208,,Q,test,riordan,miss.,"""""",  johanna hannah,False,334915,,2.0,0.0
+410,1302,2.0,3,"naughton, miss. hannah",female,2.0,0,0,365237,7.75,,Q,test,naughton,miss.,none,  hannah,False,365237,,2.0,0.0
+413,1305,2.0,3,"spector, mr. woolf",male,2.0,0,0,a.5. 3236,8.05,,S,test,spector,mr.,none,  woolf,False,3236,a.5. ,2.0,0.0
+416,1308,2.0,3,"ware, mr. frederick",male,2.0,0,0,359309,8.05,,S,test,ware,mr.,none,  frederick,False,359309,,2.0,0.0
+417,1309,2.0,3,"peter, master. michael j",male,2.0,1,1,2668,22.3583,,C,test,peter,master.,none,  michael j,False,2668,,1.0,1.0
